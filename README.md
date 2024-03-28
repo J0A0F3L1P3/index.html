@@ -2,18 +2,6 @@
 
 Este é o meu portfólio pessoal, onde apresento meus projetos e informações sobre mim (foto de perfil meramente ilustrativa) como desenvolvedor front-end.
 
-## Sobre mim
-
-Meu nome é João Felipe, tenho 18 anos e atualmente estou cursando Engenharia de Software e Desenvolvimento de Sistemas. Tenho conhecimentos em HTML, CSS, JavaScript, C# e Python.
-
-## Projetos
-
-Nesta seção, apresento alguns dos meus projetos mais recentes. Você pode acessar cada um deles através dos links abaixo:
-
-- [sky-high](https://j0a0f3l1p3.github.io/sky-high/): Um projeto que apresenta um layout responsivo para dispositivos móveis.
-- [beach](https://j0a0f3l1p3.github.io/beach/): Projeto de design para melhor experiencia de CSS e HTML.
-- [pagina-de-login](https://j0a0f3l1p3.github.io/pagina-de-login/): Um projeto simples, com animações e efeitos visuais.
-
 ## Como utilizar
 
 O projeto é composto por uma página única com diferentes seções:
